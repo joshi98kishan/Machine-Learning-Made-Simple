@@ -34,6 +34,14 @@
     - [Customizing Plot Legends](https://jakevdp.github.io/PythonDataScienceHandbook/04.06-customizing-legends.html)
     - [Customizing Colorbars](https://jakevdp.github.io/PythonDataScienceHandbook/04.07-customizing-colorbars.html)
     - [Multiple Subplots](https://jakevdp.github.io/PythonDataScienceHandbook/04.08-multiple-subplots.html)
+    
+* Scikit-Learn:
+
+    -
+    -
+    -
+    
+ 
 
 
 4. Machine Learning Specialization offered by University Of Washington
