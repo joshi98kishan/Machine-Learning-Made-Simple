@@ -49,9 +49,26 @@
 4. Machine Learning Specialization offered by University Of Washington
    * This specialization covers all the algorithms in greater details, having a single full course for a particular kind of algorithm.
 
-5. Solve Titanic and House prediction problem on kaggle
+5. Solve Titanic and House prediction problem on kaggle.
 
-6. Pick up any project based and do it.
+6. Pick up any project and do it.
+
+### Deep Learning
+
+1. Deep Learning Specialization offered by deeplearning.ai
+   * Taught by Andrew Ng.
+   * This specialization starts from very basic and covers CNN and sequence models.
+   * Teaches keras and tensorflow library at a basic level.
+
+    Note: 3rd course of this specialization is not important for now. You can skip it.
+    
+2. Practical Deep Learning for Coders offered by fast.ai
+   * Taught by Jeremy Howard.
+   * Best course to make your hands dirty with code.
+   * This course follows top-down aproach, it will first teach you how to code deep learning model and then deep dive into the      fundamentals.
+   * This course will motivate you to do different kinds of projects.
+   * Uses fastai library (Build on top of pytorch library).
+
 
 
 
