@@ -69,7 +69,8 @@
    * This course will motivate you to do different kinds of projects.
    * Uses fastai library (Build on top of pytorch library).
 
+    Note: This course is the part-1. There is part-2 also which covers fundamentals.
 
-
-
-   
+3. To learn libraries more comprensively, follow this resource.
+* Keras - 
+* Tensorflow - 
