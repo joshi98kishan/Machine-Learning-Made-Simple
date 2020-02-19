@@ -81,6 +81,6 @@ References:
 * Tensorflow - Follow the official [documentation](https://www.tensorflow.org/).
 
 References:
+* Deep Learning with Python by François Chollet (creater of Keras)
 * 
-*
 *
