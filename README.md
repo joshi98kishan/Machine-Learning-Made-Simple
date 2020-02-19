@@ -2,6 +2,8 @@
 
 ## A full road-map from machine learning to deep learning
 
+### Machine Learning
+
 1. Machine Learning course offered by Stanford
    * Taught by best instructor - Andrew Ng
    * Covers all the important algorithms in a very simple way.
@@ -45,9 +47,12 @@
 
 
 4. Machine Learning Specialization offered by University Of Washington
-   * This specialization covers all the algorithms in greater details, having a single full corse for a particular kind of algorithm.
-   * One disadvantage of this specialization is that it uses GraphLab library.
+   * This specialization covers all the algorithms in greater details, having a single full course for a particular kind of algorithm.
 
 5. Solve Titanic and House prediction problem on kaggle
+
+6. Pick up any project based and do it.
+
+
 
    
