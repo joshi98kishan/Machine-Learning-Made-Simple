@@ -19,7 +19,7 @@
 * Numpy : For this you can refer to [official quickstart tutorial of numpy](https://numpy.org/devdocs/user/quickstart.html).
    
 * Pandas : Read the below topics from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).
-              Chapter 3 - [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-                     pandas.html):
+           Chapter 3 - [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html):
     - [Introducing Pandas Objects](https://jakevdp.github.io/PythonDataScienceHandbook/03.01-introducing-pandas-objects.html)
     - [Data Indexing and Selection](https://jakevdp.github.io/PythonDataScienceHandbook/03.02-data-indexing-and-selection.html)
     - [Operating on Data in Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.03-operations-in-pandas.html)
@@ -53,6 +53,11 @@
 
 6. Pick up any project and do it.
 
+References:
+* 
+*
+*
+
 ### Deep Learning
 
 1. Deep Learning Specialization offered by deeplearning.ai
@@ -72,5 +77,10 @@
     Note: This course is the part-1. There is part-2 also which covers fundamentals.
 
 3. To learn libraries more comprensively, follow this resource.
-* Keras - 
-* Tensorflow - 
+* Keras - Follow the official [documentation](https://keras.io/).
+* Tensorflow - Follow the official [documentation](https://www.tensorflow.org/).
+
+References:
+* 
+*
+*
