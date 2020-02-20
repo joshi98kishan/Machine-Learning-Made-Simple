@@ -9,20 +9,20 @@
    * Covers all the important algorithms in a very simple way.
    
    Note: Excercises are in octave, so if you wish you can copy-paste the solution of excercises, but don't blindly copy-paste, try to          understand the problem as well as its solution. In future when you will learn python for ML, you can solve the same problem in python. Solutions are available online.
-   
-2. [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python/) offered by IBM :
-   * First exposure to practical machine learning.
-   * Covers all the important machine learning libraries in brief - Numpy, Pandas, Matplotlib, Sckit-Learn.
 
-3. Before going ahead and learn all the libraries in detail, you should know about [Anaconda](https://www.anaconda.com/distribution/).
-   You can understand Anaconda as a software which is packed up with all the libraries required for data science. 
+2. Before going ahead and learn python for machine learning, you should know about [Anaconda](https://www.anaconda.com/distribution/).
+   You can understand Anaconda as a single software which is packed up with all the libraries required for data science. So, you don't need to install all the libraries seperately, you just need to install Anaconda and all the required libraraies for ML will come up with it. Also libraries which are not pre-installed with Anaconda can be easily installed with its package manager (i.e. Conda).
    
    Read this blog - [An introduction to Anaconda: what it is, and how to install it](https://www.freecodecamp.org/news/how-to-install-anaconda-on-ubuntu-16-04-64-bit-6f1c4675ce44/)
    
    Now install the Anaconda in your pc.
    For installation, you can follow the [official documentation](https://docs.anaconda.com/anaconda/install/).
    
-   Also read this blog for Jupyter Notebook - [Jupyter Notebook: An Introduction](https://realpython.com/jupyter-notebook-introduction/). Dont need to read it fully, just have a basic idea.
+   Also read this blog for Jupyter Notebook - [Jupyter Notebook: An Introduction](https://realpython.com/jupyter-notebook-introduction/). Dont need to read it fully, just have a basic idea. Jupyter Notebook come up with Anaconda, so you don't need to install it seperately.
+  
+3. [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python/) offered by IBM :
+   * First exposure to practical machine learning.
+   * Covers all the important machine learning libraries in brief - Numpy, Pandas, Matplotlib, Sckit-Learn.
 
 3. To learn libraries more comprensively, follow this resources :
 
