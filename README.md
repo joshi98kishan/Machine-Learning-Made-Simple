@@ -1,20 +1,26 @@
 # Machine-Learning-Made-Simple
 
-## A full road-map from machine learning to deep learning
+## A full road-map from Machine Learning to Deep Learning
 
 ### Machine Learning
 
-1. Machine Learning course offered by Stanford
-   * Taught by best instructor - Andrew Ng
+1. [Machine Learning](https://www.coursera.org/learn/machine-learning) course offered by Stanford :
+   * Taught by one of the best instructor in the industry - Andrew Ng
    * Covers all the important algorithms in a very simple way.
    
-   Note: Excercises are in octave, so if you wish you can copy-paste the solution of excercises, but don't blindly copy-paste, try to          understand the problem as well as its solution. In future when you will learn python for ML, you can solve the same problem in python.      Solutions are available online.
+   Note: Excercises are in octave, so if you wish you can copy-paste the solution of excercises, but don't blindly copy-paste, try to          understand the problem as well as its solution. In future when you will learn python for ML, you can solve the same problem in python. Solutions are available online.
    
-2. Machine Learning with Python offered by IBM
+2. [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python/) offered by IBM :
    * First exposure to practical machine learning.
-   * Covers all the important machine learning libraries - Numpy, Pandas, Matplotlib, Sckit-Learn.
-   
-3. To learn libraries more comprensively, follow this resource.
+   * Covers all the important machine learning libraries in brief - Numpy, Pandas, Matplotlib, Sckit-Learn.
+
+3. Before going ahead and learn all the libraries in detail, you should know about [Anaconda](https://www.anaconda.com/distribution/).
+   You can understand Anaconda as a software which is packed up with all the libraries required for data science. 
+   Read this blog - [An introduction to Anaconda: what it is, and how to install it](https://www.freecodecamp.org/news/how-to-install-anaconda-on-ubuntu-16-04-64-bit-6f1c4675ce44/)
+   Now install the Anaconda in your pc.
+   For installation, you can follow the [official documentation](https://docs.anaconda.com/anaconda/install/).
+
+3. To learn libraries more comprensively, follow this resources :
 
 * Numpy : For this you can refer to [official quickstart tutorial of numpy](https://numpy.org/devdocs/user/quickstart.html).
    
