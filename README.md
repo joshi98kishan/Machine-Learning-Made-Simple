@@ -16,9 +16,13 @@
 
 3. Before going ahead and learn all the libraries in detail, you should know about [Anaconda](https://www.anaconda.com/distribution/).
    You can understand Anaconda as a software which is packed up with all the libraries required for data science. 
+   
    Read this blog - [An introduction to Anaconda: what it is, and how to install it](https://www.freecodecamp.org/news/how-to-install-anaconda-on-ubuntu-16-04-64-bit-6f1c4675ce44/)
+   
    Now install the Anaconda in your pc.
    For installation, you can follow the [official documentation](https://docs.anaconda.com/anaconda/install/).
+   
+   Also read this blog for Jupyter Notebook - [Jupyter Notebook: An Introduction](https://realpython.com/jupyter-notebook-introduction/). Dont need to read it fully, just have a basic idea.
 
 3. To learn libraries more comprensively, follow this resources :
 
