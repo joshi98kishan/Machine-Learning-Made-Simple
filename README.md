@@ -24,7 +24,7 @@
    * First exposure to practical machine learning.
    * Covers all the important machine learning libraries in brief - Numpy, Pandas, Matplotlib, Sckit-Learn.
 
-3. To learn libraries more comprensively, follow this resources :
+3. To learn libraries more comprehensively, follow this resources :
 
 * Numpy : For this you can refer to [official quickstart tutorial of numpy](https://numpy.org/devdocs/user/quickstart.html).
    
