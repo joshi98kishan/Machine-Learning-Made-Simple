@@ -85,6 +85,7 @@ References:
 
 3. To learn libraries more comprehensively, follow this resources :
 * Keras - Follow the official [documentation](https://keras.io/).
+* Pytorch - Follow the official [documentation](https://pytorch.org/).
 * Tensorflow - Follow the official [documentation](https://www.tensorflow.org/).
 
 4. Solve [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) on on [Kaggle](https://www.kaggle.com/).
