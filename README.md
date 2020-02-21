@@ -56,7 +56,7 @@
 4. Machine Learning Specialization offered by University Of Washington
    * This specialization covers all the algorithms in greater details, having a single full course for a particular kind of algorithm.
 
-5. Solve [Titanic](https://www.kaggle.com/c/titanic) and [House Prediction](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) problem on [Kaggle](https://www.coursera.org/specializations/machine-learning).
+5. Solve [Titanic](https://www.kaggle.com/c/titanic) and [House Prediction](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) problem on [Kaggle](https://www.kaggle.com/).
 
 6. Now select the datasets from two most famous data repositories - [Kaggle Datasets](https://www.kaggle.com/datasets) and [UC Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php). And solve the problem.
 
@@ -83,9 +83,13 @@ References:
 
     Note: This course is the part-1. There is [part-2](https://course.fast.ai/part2) also which covers fundamentals.
 
-3. To learn libraries more comprensively, follow this resources :
+3. To learn libraries more comprehensively, follow this resources :
 * Keras - Follow the official [documentation](https://keras.io/).
 * Tensorflow - Follow the official [documentation](https://www.tensorflow.org/).
+
+4. Solve [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) on on [Kaggle](https://www.kaggle.com/).
+
+5. Now select the datasets from two most famous data repositories - [Kaggle Datasets](https://www.kaggle.com/datasets) and [UC Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php). And solve the problem.
 
 References:
 * Deep Learning with Python by François Chollet (creater of Keras)
