@@ -47,11 +47,7 @@
     - [Customizing Colorbars](https://jakevdp.github.io/PythonDataScienceHandbook/04.07-customizing-colorbars.html)
     - [Multiple Subplots](https://jakevdp.github.io/PythonDataScienceHandbook/04.08-multiple-subplots.html)
     
-* Scikit-Learn:
-
-    -
-    -
-    -
+* Scikit-Learn - Refer the chapters 2 and 3 of [Python Machine Learning]()
 
 4. Machine Learning Specialization offered by University Of Washington
    * This specialization covers all the algorithms in greater details, having a single full course for a particular kind of algorithm.
@@ -61,9 +57,9 @@
 6. Now select the datasets from two most famous data repositories - [Kaggle Datasets](https://www.kaggle.com/datasets) and [UC Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php). And solve the problem.
 
 References:
-* 
-*
-*
+* Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition by Aurélien Géron (Best book for Machine Learning)
+* Python Machine Learning by Sebastian Raschka
+* [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) (This book is maths oriented, so if you want to study in depth you can refer this book)
 
 ### Deep Learning
 
@@ -93,6 +89,6 @@ References:
 5. Now select the datasets from two most famous data repositories - [Kaggle Datasets](https://www.kaggle.com/datasets) and [UC Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php). And solve the problem.
 
 References:
-* Deep Learning with Python by François Chollet (creater of Keras)
-* 
-*
+* Deep Learning with Python by François Chollet (Creater of Keras)
+* [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville (Bible of Deep Learning)
+* Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition by Aurélien Géron (Best book for Machine Learning)
